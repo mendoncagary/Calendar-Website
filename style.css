@@ -1,0 +1,87 @@
+*{
+margin:0px;
+padding:0px;
+
+}
+
+a{
+	text-decoration:none;
+}
+
+td.menuitem:hover{
+    background-color: #ddd;
+}
+
+#mainmenu{
+	height:40px;
+	
+}
+
+td.active {
+    color: white;
+    background-color: #787D7B;
+	height:40px;
+	cursor:pointer;
+}
+
+td.menuitem{
+	height:40px;
+	cursor:pointer;
+}
+
+header{
+	border:1px solid #787D7B;
+	border-left:none;
+	border-right:none;
+	font-family:calibri;	
+}
+
+#select{
+	color:white;
+}
+
+#contacttable{
+	box-shadow:2p 2px 2px grey;
+	
+}
+
+.button {
+    background-color:  #E65225; /* Green */
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #555555;
+    color: white;
+}
+
+input{
+	height:25px;
+	
+}
+
+#main{
+	position:absolute;
+	top:600px;
+	right:50px;
+	
+	
+	
+	
+}
+
+#trademark{
+	position:absolute;
+	top:1200px;
+	left:550px;
+}
