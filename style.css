@@ -41,8 +41,12 @@ header{
 }
 
 #contacttable{
+<<<<<<< HEAD
 /*	box-shadow:2p 2px 2px grey;*/
 	
+=======
+	box-shadow:2p 2px 2px grey;
+>>>>>>> 893e79338a40092b6d07490428355ea6d9b580e7
 	
 }
 
